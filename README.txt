@@ -1,5 +1,9 @@
 Site for morrisembedded.com
 
+Credits:
+Background: FreeImages.com/PawelKryj
+Template: (see below)
+
 
 Using Template:
 Identity by HTML5 UP
